@@ -7,4 +7,4 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
 
-[![WangShengJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![网笙久久 GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
