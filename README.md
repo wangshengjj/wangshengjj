@@ -3,10 +3,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wangshengjj/count.svg)
 
-<a href="https://github.com/wangshengjj">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>
-
 - 🔭 我目前正在研究：在研究如何当一个合格的舔狗
 - 🌱 我目前正在学习：学习新思想 争做新青年
 - 👯 我正在寻找合作：请[vme50](https://vme50.wangshengjj.work)
@@ -16,4 +12,6 @@
 - 😄 代词: ...？
 - ⚡ 有趣的事实：我是个无趣的人
 
-[![网笙久久 GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![网笙久久 GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <a href="https://github.com/wangshengjj">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>
