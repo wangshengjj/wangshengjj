@@ -3,9 +3,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wangshengjj/count.svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/wangshengjj/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangshengjj&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/wangshengjj/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangshengjj&repo=convoychat" />
 </a>
