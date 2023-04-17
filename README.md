@@ -14,15 +14,12 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <a href="https://github.com/wangshengjj" style="display: block;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical" />
-    </a>
+    <a href="https://github.com/wangshengjj" style="display: block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical" /></a>
   </div>
   <div>
-    <a href="https://github.com/wangshengjj" style="display: block;">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-    </a>
+    <a href="https://github.com/wangshengjj" style="display: block;"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" /></a>
   </div>
 </div>
+
 
 
