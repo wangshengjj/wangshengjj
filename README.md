@@ -12,7 +12,8 @@
 - 😄 代词: ...？
 - ⚡ 有趣的事实：我是个无趣的人
 
-[![网笙久久 GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![网笙久久 GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/wangshengjj">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
