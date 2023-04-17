@@ -13,14 +13,11 @@
 - ⚡ 有趣的事实：我是个无趣的人
 
 <div style="display: flex;">
-  <div style="flex: 1;">
-    <a href="https://github.com/wangshengjj" style="display: block; text-align: center;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical" />
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/wangshengjj" style="display: block;">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-    </a>
-  </div>
+  <a href="https://github.com/wangshengjj" style="flex: 1; display: block; text-align: center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical" />
+  </a>
+  <a href="https://github.com/wangshengjj" style="display: block; text-align: center;">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+  </a>
 </div>
+
