@@ -3,9 +3,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wangshengjj/count.svg)
 
-[![WangShengJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshengjj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/wangshengjj">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangshengjj&repo=github-readme-stats" />
 </a>
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangshengjj&repo=convoychat" />
+</a>
