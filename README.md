@@ -21,3 +21,4 @@
   </a>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,kubernetes)](https://skillicons.dev)
