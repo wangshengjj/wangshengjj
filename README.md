@@ -21,4 +21,4 @@
   </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,kubernetes,nginx,jenkins,gitlab,vim,markdown,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,docker,kubernetes,nginx,jenkins,gitlab,vim,markdown,grafana,cloudflare)](https://skillicons.dev)
